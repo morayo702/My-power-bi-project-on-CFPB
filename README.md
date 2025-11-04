@@ -22,9 +22,9 @@ The data was collected from an open source which is zoom chart  [you can get the
 The tool used for this project is Microsoft Power Bi [you can get it here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 ## Data Cleaning 
-1 removed the missing value and clean the data with power query 
+I removed the missing value and clean the data with power query 
 ## Data Modelling 
-1 connect the relationship between the tables and created a clender table
+I connect the relationship between the tables and created a clender table
 
 ## Analyze 
 To get the total no of complaints DAX EXPRESSION 
