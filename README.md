@@ -23,7 +23,10 @@ The tool used for this project is Microsoft Power Bi [you can get it here](https
 ## Data Cleaning 
 1 removed the missing value and clean the data with power query 
 ## Data Modelling 
-1 connect the relationship between the tables and created a clender table 
+1 connect the relationship between the tables and created a clender table
+
+## Analyze 
+here is were the main work start from 
 
 
 
